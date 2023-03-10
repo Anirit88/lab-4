@@ -6,7 +6,7 @@ For this lab i decided to use the dataset on comfort zones around Seattle publis
 ## Maps
 Basemap, created on Mapbox and imported to QGIS:
 
-![Base Map](imgs/Screen Shot 2023-03-09 at 1.41.34 PM.png)
+![Base Map](imgs/base.png)
 
 Map with bike locations only, imported into QGIS:
 
