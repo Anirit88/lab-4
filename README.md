@@ -14,7 +14,7 @@ Map with Comfort Zones only, imported into QGIS:
 
 Compfort Zones with the base map, also imported into QGIS:
 
-![Bikes with Base Map](imgs/base_Comfort.png)
+![Bikes with Base Map](imgs/base_comfort.png)
 
 UW Themed Map, created on Mapbox and imported to QGIS:
 
