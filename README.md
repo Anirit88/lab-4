@@ -8,14 +8,14 @@ Basemap, created on Mapbox and imported to QGIS:
 
 ![Base Map](imgs/base.png)
 
-Map with bike locations only, imported into QGIS:
+Map with Comfort Zones only, imported into QGIS:
 
-![Bikes only with OpenStreetMap](imgs/Screen Shot 2023-03-09 at 1.42.16 PM.png)
+![Bikes only with OpenStreetMap](imgs/Comfort.png)
 
 Compfort Zones with the base map, also imported into QGIS:
 
-![Bikes with Base Map](imgs/Screen Shot 2023-03-09 at 1.41.47 PM.png)
+![Bikes with Base Map](imgs/base_Comfort.png)
 
 UW Themed Map, created on Mapbox and imported to QGIS:
 
-![UW Theme Map](imgs/Screen Shot 2023-03-09 at 1.42.27 PM.png)
+![UW Theme Map](imgs/UWtheme.png)
