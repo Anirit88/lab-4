@@ -6,7 +6,7 @@ For this lab i decided to use the dataset on comfort zones around Seattle publis
 ## Maps
 Basemap, created on Mapbox and imported to QGIS:
 
-![Base Map](imgs/base.png)
+![Base Map](imgs/basemap.png)
 
 Map with Comfort Zones only, imported into QGIS:
 
@@ -18,4 +18,4 @@ Compfort Zones with the base map, also imported into QGIS:
 
 UW Themed Map, created on Mapbox and imported to QGIS:
 
-![UW Theme Map](imgs/UWtheme.png)
+![UW Theme Map](imgs/uwtheme.png)
