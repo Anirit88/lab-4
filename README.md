@@ -1,7 +1,7 @@
 # lab-4
 
 ## Descriptions
-For this lab i decided to use the dataset on comfort zones around Seattle published by King county.
+For this lab i decided to use the dataset on comfort zones around Seattle published by King county. For my maps i implemented a minimum zoom level of 3 and maximum of 13. I created my individual maps on mapbox and imported the url's to QGIS, from which i exported the respective tiles into folders. I compiled all my maps as layers in my index.html file
 
 ## Maps
 Basemap, created on Mapbox and imported to QGIS:
